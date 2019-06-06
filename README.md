@@ -1,4 +1,3 @@
 # hello-world
-test
 
-EU > NA
+EU >> NA
